@@ -22,9 +22,7 @@
    <img align="center" alt="Bruno-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg">
    <img align="center" alt="Bruno-Selenium" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
    <img align="center" alt="Bruno-Cypress" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original-wordmark.svg">
-   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-   <img align="center" alt="Bruno-VsCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-   <img align="center" alt="Bruno-Intellij" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
+   <img align="center" alt="Bruno-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
 </div>
 <br>
  
