@@ -1,4 +1,4 @@
-<h1>Hello, I'm Bruno Santos, welcome to my profile 👋</h1>
+<h1>Hello, I'm Bruno Santos, welcome to my profile!</h1>
 <br>
 
 <p>I hold a Bachelor's degree in Computer Science and a Postgraduate degree in Full Stack Web Development.</p>
